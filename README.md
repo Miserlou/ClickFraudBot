@@ -1,4 +1,4 @@
-![logo](http://i.imgur.com/JOLLe.png)
+![logo](http://i.imgur.com/2d5go.png)
 
 # ClickFraudBot
 PPC is a fraud.
